@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hai Tran</h1>
+<h1 align="center">Hi, I'm Hai Tran 👋</h1>
 <h3 align="center">A Technical Engineer in Vietnam</h3>
+
+- 📫 How to reach me **haitran2118@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
